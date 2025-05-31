@@ -5,4 +5,4 @@ Dataset Link: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music
 
 Check Releases for saved models, can be used for model implementation
 
-You can download the jupyter notebook examples from HTML folder
+You can download the jupyter notebook examples in HTML format from HTML folder
